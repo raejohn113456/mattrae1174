@@ -21,7 +21,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Rae John</h1>
+        <h1>Rumba taba</h1>
         <p>Hi, I'm Rumba taba, a singer, songwriter, and producer. I've been working on music professionally for the past 2 years and have released 3 singles. Currently, I'm working on my debut EP titled "My kubaya Demos," and I can't wait to share it with you all.</p>
     </div>
 </body>
